@@ -1,0 +1,7 @@
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\SortNumWcfService\SortNumWcfService\bin\SortNumWcfService.dll.config
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\SortNumWcfService\SortNumWcfService\bin\SortNumWcfService.dll
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\SortNumWcfService\SortNumWcfService\bin\SortNumWcfService.pdb
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\SortNumWcfService\SortNumWcfService\obj\Debug\SortNumWcfService.csproj.AssemblyReference.cache
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\SortNumWcfService\SortNumWcfService\obj\Debug\SortNumWcfService.csproj.CoreCompileInputs.cache
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\SortNumWcfService\SortNumWcfService\obj\Debug\SortNumWcfService.dll
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\SortNumWcfService\SortNumWcfService\obj\Debug\SortNumWcfService.pdb

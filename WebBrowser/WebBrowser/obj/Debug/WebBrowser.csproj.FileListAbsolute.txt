@@ -1,0 +1,13 @@
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.AssemblyReference.cache
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.Up2Date

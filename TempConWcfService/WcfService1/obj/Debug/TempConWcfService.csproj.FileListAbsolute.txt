@@ -1,0 +1,7 @@
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\TempConWcfService\WcfService1\bin\WcfService1.dll.config
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\TempConWcfService\WcfService1\bin\WcfService1.dll
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\TempConWcfService\WcfService1\bin\WcfService1.pdb
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\TempConWcfService\WcfService1\obj\Debug\TempConWcfService.csproj.AssemblyReference.cache
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\TempConWcfService\WcfService1\obj\Debug\TempConWcfService.csproj.CoreCompileInputs.cache
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\TempConWcfService\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\birar\OneDrive\Documents\CanvasCourses\Semester7\CSE 445 - 76120\Assignment 1\Assignment 1\TempConWcfService\WcfService1\obj\Debug\WcfService1.pdb

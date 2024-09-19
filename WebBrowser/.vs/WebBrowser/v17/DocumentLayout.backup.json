@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF0D991-1960-41BC-8865-7D7EB027053E}|WebBrowser\\WebBrowser.csproj|c:\\users\\birar\\onedrive\\documents\\canvascourses\\semester7\\cse 445 - 76120\\assignment 1\\assignment 1\\webbrowser\\webbrowser\\web browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF0D991-1960-41BC-8865-7D7EB027053E}|WebBrowser\\WebBrowser.csproj|solutionrelative:webbrowser\\web browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF0D991-1960-41BC-8865-7D7EB027053E}|WebBrowser\\WebBrowser.csproj|C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\webbrowser\\web browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEF0D991-1960-41BC-8865-7D7EB027053E}|WebBrowser\\WebBrowser.csproj|solutionrelative:webbrowser\\web browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF0D991-1960-41BC-8865-7D7EB027053E}|WebBrowser\\WebBrowser.csproj|C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\webbrowser\\web browser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF0D991-1960-41BC-8865-7D7EB027053E}|WebBrowser\\WebBrowser.csproj|solutionrelative:webbrowser\\web browser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web Browser.cs",
+              "DocumentMoniker": "C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\WebBrowser\\Web Browser.cs",
+              "RelativeDocumentMoniker": "WebBrowser\\Web Browser.cs",
+              "ToolTip": "C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\WebBrowser\\Web Browser.cs",
+              "RelativeToolTip": "WebBrowser\\Web Browser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:42:19.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web Browser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\WebBrowser\\Web Browser.cs",
+              "RelativeDocumentMoniker": "WebBrowser\\Web Browser.cs",
+              "ToolTip": "C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\WebBrowser\\Web Browser.cs [Design]",
+              "RelativeToolTip": "WebBrowser\\Web Browser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:33:05.994Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web Browser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\WebBrowser\\Web Browser.Designer.cs",
+              "RelativeDocumentMoniker": "WebBrowser\\Web Browser.Designer.cs",
+              "ToolTip": "C:\\Users\\birar\\OneDrive\\Documents\\CanvasCourses\\Semester7\\CSE 445 - 76120\\Assignment 1\\Assignment 1\\WebBrowser\\WebBrowser\\Web Browser.Designer.cs",
+              "RelativeToolTip": "WebBrowser\\Web Browser.Designer.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAowL0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:48:40.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
